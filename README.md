@@ -1,6 +1,6 @@
 # MQ-getput
 This repo lets you create a nodejs server to process MQ messages from the Queue Manager 
-
+go here for all the details : https://github.com/ibm-messaging/mq-dev-patterns/tree/master/Node.js
 
 Install/unzip IBM MQ client
 
